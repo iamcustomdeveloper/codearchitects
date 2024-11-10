@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[332],{2022:(e,_,n)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/",function(){return n(4600)}])},4600:(e,_,n)=>{"use strict";n.r(_),n.d(_,{default:()=>s});var r=n(4848);let s=()=>(0,r.jsx)(r.Fragment,{children:"HomePage"})}},e=>{var _=_=>e(e.s=_);e.O(0,[636,593,792],()=>_(2022)),_N_E=e.O()}]);
